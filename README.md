@@ -40,4 +40,4 @@ Problems with an installer or update can be reported on the [issues page](https:
 
 ---
 
-© DPS. The installers in this repository are proprietary software; this repository distributes binaries only.
+© Muhammad Rizky Rahmatullah. The installers in this repository are proprietary software; this repository distributes binaries only.
